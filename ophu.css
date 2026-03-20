@@ -1,0 +1,58 @@
+/* CSS para el Opinador Humilde */
+
+body {
+    margin: 0.75rem;
+    background-color: #B7E4C7;
+}
+
+.cabecera {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    max-width: 100%;
+    background-color: #2B9348;
+    border-radius: 5px;
+    border-bottom: black solid 1px;
+}
+
+.Temas {
+    background-color: #407593;
+    border-radius: 10px;
+}
+
+.definicion {
+    background-image: url("lineas.jpg");
+    background-size: cover;
+}
+
+.bloque1 {
+    margin: 0 auto;
+    max-width: 70%;
+    background-image: url("tirachard.jpg");
+    background-size: cover;
+    border-radius: 10px;
+    border: black solid 1px;
+}
+
+#custom-cards {
+    background-color: rgb(209, 145, 118);
+    border-radius: 1.5rem
+}
+
+.card {
+    background-size: cover;
+}
+
+.me-auto {
+    background-color: white;
+    border-radius: 5px;
+}
+
+.nav-link {
+    color: black;
+}
+
+footer {
+    max-width: 100%;
+    background-color: #2B9348;
+    border-radius: 5px;
+    border-top: black solid 1px;
+}
